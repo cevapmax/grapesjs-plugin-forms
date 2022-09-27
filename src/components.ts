@@ -109,6 +109,8 @@ export default function(editor: grapesjs.Editor) {
               { value: 'email' },
               { value: 'password' },
               { value: 'number' },
+              { value: 'color' },
+              { value: 'date' },
             ]
           },
           requiredTrait
